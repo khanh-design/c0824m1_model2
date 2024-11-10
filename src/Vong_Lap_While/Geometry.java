@@ -41,6 +41,12 @@ public class Geometry {
                             }
                             System.out.println();
                         }
+                        break;
+                        case 0:
+                            System.out.println("Goodbye");
+                            break;
+                            default:
+                                System.out.println("Invalid choice");
         }
     }
 }
