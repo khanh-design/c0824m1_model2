@@ -1,4 +1,4 @@
-package Search_Max_Value;
+package Search_Max_Min_Value;
 
 public class Max_Value {
     public static void main(String[] args) {

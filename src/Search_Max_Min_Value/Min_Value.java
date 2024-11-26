@@ -1,4 +1,4 @@
-package Search_Max_Value;
+package Search_Max_Min_Value;
 
 import java.util.Scanner;
 
